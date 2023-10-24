@@ -1,8 +1,4 @@
-- 👋 Hello all, my name is Spenser Hill and I'm a developer and information security specialist in training!
-- 👀 I’m passionate about creative problem solving and collaborating on innovative projects.
-- 🌱 I’m currently learning to use forensics and analytical tools through linux distrubitions and kali.
-- 💞️ I’m looking to collaborate on anything I can, the more I learn the better!
-- 📫 www.linkedin.com/in/spenser-hill-security-pro, or you can reach me right here on Git!
+- 👋 Hello all, my name is Spenser Hill and this is in the process of being updated, stay tuned for killer content that will flip you lid. q(≧▽≦q)
 
 
 <!---
