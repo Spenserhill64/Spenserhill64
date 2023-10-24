@@ -1,4 +1,4 @@
-- 👋 Hello all, my name is Spenser Hill and this is in the process of being updated, stay tuned for killer content that will flip you lid. q(≧▽≦q)
+- 👋 Hello all, my name is Spenser Hill and this is in the process of being updated, stay tuned for killer content that will flip your lid. q(≧▽≦q)
 
 
 <!---
